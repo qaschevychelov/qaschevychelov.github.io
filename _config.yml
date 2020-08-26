@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  qaschevychelov
 instagram_username:  chevychelovsergei
+avatar: assets/img/avatar.jpg
 
 # Build settings
 plugins:
