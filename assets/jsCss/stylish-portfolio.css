@@ -155,7 +155,10 @@ hr.small {
     top: 0;
     right: 0;
 }
-
+.codeTag {
+    display: inline;
+    padding: 0;
+}
 #sidebar-wrapper.active {
     right: 250px;
     width: 250px;
